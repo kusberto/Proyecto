@@ -1,4 +1,10 @@
 Agua 
 Pan
+<<<<<<< HEAD
 Lechuga
 Tomate
+=======
+Tomate 
+lechuga 
+
+>>>>>>> desarrollo
